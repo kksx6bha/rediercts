@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://new-domain.com/:splat"
+  to = "https://github.com/:splat"
   status = 301
   force = true
